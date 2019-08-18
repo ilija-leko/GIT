@@ -1,0 +1,2 @@
+# GIT
+Incijalni file
